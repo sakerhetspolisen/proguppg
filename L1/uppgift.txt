@@ -8,6 +8,7 @@ Datatyper och variabler i Python!
 
 -------------------
 
+★☆☆
 LEVEL 1
 
 Nu ska vi testa att använda variabler och print() i Python. Skapa ett program som kan beräkna volymen av en sfär från en variabel {radius}.
@@ -18,6 +19,7 @@ Nu ska vi testa att använda variabler och print() i Python. Skapa ett program s
 
 -------------------
 
+★★☆
 LEVEL 2
 
 Skriv ett program som tar en variabel {number}, dividerar det med en annan variabel {denominator} och beräknar resten.
@@ -26,6 +28,7 @@ Skriv ett program som tar en variabel {number}, dividerar det med en annan varia
 
 -------------------
 
+★★★
 LEVEL 3
 
 När det är soligt i Helsingborg stormar folk till Gröningen. Om variabeln {initial} är antalet personer som är på Gröningen 8:00 en sommardag och antalet personer ökar med 50% per timme, hur många personer har vi på Gröningen efter varibeln {hours} timmar?
